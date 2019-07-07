@@ -1,0 +1,2 @@
+# fastnews
+GitHub Pages
